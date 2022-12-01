@@ -1,0 +1,21 @@
+sagittal\_average.tests package
+===============================
+
+Submodules
+----------
+
+sagittal\_average.tests.test\_sagittal\_brain module
+----------------------------------------------------
+
+.. automodule:: sagittal_average.tests.test_sagittal_brain
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: sagittal_average.tests
+   :members:
+   :undoc-members:
+   :show-inheritance:

@@ -1,0 +1,37 @@
+sagittal\_average package
+=========================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   sagittal_average.tests
+
+Submodules
+----------
+
+sagittal\_average.command module
+--------------------------------
+
+.. automodule:: sagittal_average.command
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+sagittal\_average.sagittal\_brain module
+----------------------------------------
+
+.. automodule:: sagittal_average.sagittal_brain
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: sagittal_average
+   :members:
+   :undoc-members:
+   :show-inheritance:
